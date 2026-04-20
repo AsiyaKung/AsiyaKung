@@ -65,5 +65,3 @@ Building cool stuff, learning hacking (แบบถูกกฎ 😏) และ�
 </div>
 
 ---
-
-![snake](https://raw.githubusercontent.com/AsiyaKung/AsiyaKung/output/github-contribution-grid-snake-dark.svg)
