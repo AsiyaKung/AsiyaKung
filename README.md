@@ -49,7 +49,7 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0d1b2a?style=for-the-badge&logo=kalilinux&logoColor=00d4aa)
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=e2e8f0)
 ![Git](https://img.shields.io/badge/Git-2a1200?style=for-the-badge&logo=git&logoColor=fb923c)
-![VSCode](https://img.shields.io/badge/VSCode-061e2e?style=for-the-badge&logo=visual-studio-code&logoColor=38bdf8)
+![VSCode](https://img.shields.io/badge/VSCode-061e2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSIjMzhiZGY4IiBkPSJNNzQuOSAxNC40TDUxLjkgMzcuMSAzMS41IDE5LjkgMjQgMjUuMWwxNy43IDE2LjUtMTcuNyAxNi41IDcuNCA1LjIgMjAuNS0xNy4yIDIyLjkgMjIuOCA3LjYtMy43VjE4bC03LjUtMy42ek0yNCA1OS41bDguMyA1LjIgMTEuNy0xMS41TDMyLjMgNDJ6Ii8+PC9zdmc+&logoColor=38bdf8)
 
 </div>
 
