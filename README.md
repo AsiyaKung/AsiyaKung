@@ -31,6 +31,7 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 
 ### 💻 Programming Languages
 ![Lua](https://img.shields.io/badge/Lua-1C3552?style=for-the-badge&logo=lua&logoColor=60a5fa)
+![Luau](https://img.shields.io/badge/Luau-1c2333?style=for-the-badge&logoColor=a0a8b8)
 ![Python](https://img.shields.io/badge/Python-0f1e38?style=for-the-badge&logo=python&logoColor=93c5fd)
 ![C](https://img.shields.io/badge/C-1e1030?style=for-the-badge&logo=c&logoColor=c084fc)
 ![C++](https://img.shields.io/badge/C++-161f3a?style=for-the-badge&logo=cplusplus&logoColor=818cf8)
