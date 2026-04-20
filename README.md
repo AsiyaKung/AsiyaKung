@@ -2,7 +2,7 @@
 
 # Hi, I'm AsiyaKung 👋
 ### 💻 Future Cybersecurity & Developer
-Building cool stuff, learning hacking (แบบถูกกฎ 😏) และพัฒนา skill ไปเรื่อยๆ
+Building cool stuff, learning ethical hacking, and leveling up my skills every day.
 
 ---
 
@@ -17,10 +17,10 @@ Building cool stuff, learning hacking (แบบถูกกฎ 😏) และ�
 
 ## 🚀 About Me
 
-- 🎓 สนใจด้าน **Cybersecurity**
-- 💻 เขียนโค้ด + เคยทำโปรเจค **Roblox / Web**
-- 🧠 กำลังฝึก **Hacking / Dev / System**
-- 🎯 เป้าหมาย: ฝึกฝนด้าน Code และไป Cybersecurity
+- 🎓 Passionate about **Cybersecurity** and ethical hacking
+- 💻 Coding enthusiast with projects in **Roblox & Web Development**
+- 🧠 Currently training in **Penetration Testing / Dev / Systems**
+- 🎯 Goal: Master programming and break into the Cybersecurity field
 
 ---
 
@@ -50,6 +50,16 @@ Building cool stuff, learning hacking (แบบถูกกฎ 😏) และ�
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=e2e8f0)
 ![Git](https://img.shields.io/badge/Git-2a1200?style=for-the-badge&logo=git&logoColor=fb923c)
 ![VSCode](https://img.shields.io/badge/VSCode-061e2e?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8)
+
+</div>
+
+---
+
+## 📊 Activity
+
+<div align="center">
+
+![streak](https://streak-stats.demolab.com?user=AsiyaKung&theme=tokyonight&hide_border=true&background=161b22&ring=00d4aa&fire=7c3aed&currStreakLabel=00d4aa)
 
 </div>
 
