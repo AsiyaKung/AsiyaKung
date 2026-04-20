@@ -21,6 +21,8 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 - 💻 Coding enthusiast with projects in **Roblox & Web Development**
 - 🧠 Currently training in **Penetration Testing / Dev / Systems**
 - 🎯 Goal: Master programming and break into the Cybersecurity field
+- 🏫 Studying at **Bangkok University** — School of Information Technology and Innovation
+- 📚 **Computer Science** · Data Science and Cybersecurity
 
 ---
 
