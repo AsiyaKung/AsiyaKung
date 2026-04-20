@@ -6,7 +6,7 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 
 ---
 
-![Discord Presence](https://lanyard.cnrad.dev/api/747038836214726738)
+[![Discord Presence](https://lanyard.cnrad.dev/api/747038836214726738?bg=1A1C1F&hideActivity=true)](https://discord.com/users/747038836214726738)
 
 </div>
 
