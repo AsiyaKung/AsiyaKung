@@ -56,11 +56,11 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 
 <div align="center">
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsiyaKung&layout=compact&hide_border=true&bg_color=2b2d3a&title_color=00d4aa&text_color=8b949e)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsiyaKung&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=8b949e)
 
-![stats](https://github-readme-stats.vercel.app/api?username=AsiyaKung&show_icons=true&hide_border=true&bg_color=2b2d3a&title_color=00d4aa&text_color=8b949e&icon_color=7c3aed)
+![stats](https://github-readme-stats.vercel.app/api?username=AsiyaKung&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=8b949e&icon_color=7c3aed)
 
-![streak](https://streak-stats.demolab.com?user=AsiyaKung&hide_border=true&background=2b2d3a&ring=00d4aa&fire=7c3aed&currStreakLabel=00d4aa&sideLabels=8b949e&dates=8b949e)
+![streak](https://streak-stats.demolab.com?user=AsiyaKung&hide_border=true&background=0d1117&ring=00d4aa&fire=7c3aed&currStreakLabel=00d4aa&sideLabels=8b949e&dates=8b949e)
 
 </div>
 
