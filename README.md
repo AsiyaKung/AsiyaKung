@@ -8,10 +8,10 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/747038836214726738?bg=1A1C1F&hideActivity=true)](https://discord.com/users/747038836214726738)
 
-</div>
-
 [![Facebook](https://img.shields.io/badge/Facebook-0a1e3a?style=for-the-badge&logo=facebook&logoColor=60a5fa)](https://web.facebook.com/Vayuwat.as)
 [![Instagram](https://img.shields.io/badge/Instagram-2a0a18?style=for-the-badge&logo=instagram&logoColor=f472b6)](https://www.instagram.com/asiya_vy/)
+
+</div>
 
 ---
 
