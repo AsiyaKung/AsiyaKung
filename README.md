@@ -56,9 +56,9 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=AsiyaKung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=00d4aa&text_color=8b949e&icon_color=7c3aed)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsiyaKung&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=00d4aa&text_color=8b949e)
 ![streak](https://streak-stats.demolab.com?user=AsiyaKung&theme=tokyonight&hide_border=true&background=161b22&ring=00d4aa&fire=7c3aed&currStreakLabel=00d4aa)
+![stats](https://github-readme-stats.vercel.app/api?username=AsiyaKung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=00d4aa&text_color=8b949e&icon_color=7c3aed)
 
 </div>
 
