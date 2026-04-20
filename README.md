@@ -1,5 +1,11 @@
+<div align="center">
+
 # Hello , My name is AsiyaKung 👋
 ![Discord Presence](https://lanyard.cnrad.dev/api/747038836214726738)
+
+![stats](https://github-readme-stats.vercel.app/api?username=AsiyaKung&show_icons=true&theme=dark)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsiyaKung&layout=compact&theme=dark)
 
 <!--
 **AsiyaKung/AsiyaKung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
