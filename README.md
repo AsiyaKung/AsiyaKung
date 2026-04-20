@@ -1,5 +1,5 @@
 # Hello , My name is AsiyaKung 👋
-![Discord Presence](https://lanyard.cnrad.dev/api/AsiyaKung)
+![Discord Presence](https://lanyard.cnrad.dev/api/747038836214726738)
 
 <!--
 **AsiyaKung/AsiyaKung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
