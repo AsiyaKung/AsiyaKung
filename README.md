@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm AsiyaKung 👋
+# Hi, I'm [AsiyaKung](https://e-z.bio/asiyakung) 👋
 ### 💻 Future Cybersecurity & Developer
 Building cool stuff, learning ethical hacking, and leveling up my skills every day.
 
