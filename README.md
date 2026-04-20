@@ -10,6 +10,9 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 
 </div>
 
+[![Facebook](https://img.shields.io/badge/Facebook-0a1e3a?style=for-the-badge&logo=facebook&logoColor=60a5fa)](https://web.facebook.com/Vayuwat.as)
+[![Instagram](https://img.shields.io/badge/Instagram-2a0a18?style=for-the-badge&logo=instagram&logoColor=f472b6)](https://www.instagram.com/asiya_vy/)
+
 ---
 
 ## 👤 About Me
@@ -61,17 +64,6 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 ![stats](https://github-readme-stats.vercel.app/api?username=AsiyaKung&show_icons=true&hide_border=true&bg_color=1A1C1F&title_color=00d4aa&text_color=ffffff&icon_color=7c3aed)
 
 ![streak](https://streak-stats.demolab.com?user=AsiyaKung&hide_border=true&background=1A1C1F&ring=00d4aa&fire=7c3aed&currStreakLabel=00d4aa&sideLabels=ffffff&dates=ffffff&stroke=1A1C1F&currStreakNum=ffffff&sideNums=ffffff)
-
-</div>
-
----
-
-## 🌐 Contact
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-0a1e3a?style=for-the-badge&logo=facebook&logoColor=60a5fa)](https://web.facebook.com/Vayuwat.as)
-[![Instagram](https://img.shields.io/badge/Instagram-2a0a18?style=for-the-badge&logo=instagram&logoColor=f472b6)](https://www.instagram.com/asiya_vy/)
 
 </div>
 
