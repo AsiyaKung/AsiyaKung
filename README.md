@@ -39,7 +39,7 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 ![JavaScript](https://img.shields.io/badge/JavaScript-2a2000?style=for-the-badge&logo=javascript&logoColor=fbbf24)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f1e38?style=for-the-badge&logo=typescript&logoColor=60a5fa)
 ![HTML](https://img.shields.io/badge/HTML-2a1200?style=for-the-badge&logo=html5&logoColor=fb923c)
-![CSS](https://img.shields.io/badge/CSS-061e2e?style=for-the-badge&logo=css3&logoColor=38bdf8)
+![CSS](https://img.shields.io/badge/CSS-061e2e?style=for-the-badge&logo=css&logoColor=38bdf8)
 
 ### ⚙️ Frameworks / Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-0a2e14?style=for-the-badge&logo=node.js&logoColor=4ade80)
