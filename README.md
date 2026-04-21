@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [AsiyaKung](https://e-z.bio/asiyakung) 👋
+# Hello !, I'm [AsiyaKung](https://e-z.bio/asiyakung) 👋
 ### 💻 Future Cybersecurity & Developer
 Building cool stuff, learning ethical hacking, and leveling up my skills every day.
 
@@ -53,7 +53,6 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 ![Figma](https://img.shields.io/badge/Figma-1a0a2e?style=for-the-badge&logo=figma&logoColor=f472b6)
 ![UI Design](https://img.shields.io/badge/UI%20Design-1a0a2e?style=for-the-badge&logo=figma&logoColor=c084fc)
 ![UX Research](https://img.shields.io/badge/UX%20Research-0f1830?style=for-the-badge&logo=googleforms&logoColor=93c5fd)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-061e2e?style=for-the-badge&logo=css3&logoColor=38bdf8)
 
 ### 🐧 OS / Tools
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0d1b2a?style=for-the-badge&logo=kalilinux&logoColor=00d4aa)
