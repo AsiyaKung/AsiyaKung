@@ -20,6 +20,7 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 - 🎓 Passionate about **Cybersecurity** and ethical hacking
 - 💻 Coding enthusiast with projects in **Roblox & Web Development**
 - 🧠 Currently training in **Penetration Testing / Dev / Systems**
+- 🎨 Experience in **UX/UI Design** and **Frontend Development** with Figma & modern web stack
 - 🎯 Goal: Master programming and break into the Cybersecurity field
 - 🏫 Studying at **Bangkok University** — School of Information Technology and Innovation **Computer Science** · Data Science and Cybersecurity
 
@@ -48,12 +49,17 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 ![MySQL](https://img.shields.io/badge/MySQL-0a1a2e?style=for-the-badge&logo=mysql&logoColor=38bdf8)
 ![SQLite](https://img.shields.io/badge/SQLite-12103a?style=for-the-badge&logo=sqlite&logoColor=a5b4fc)
 
+### 🎨 UX/UI & Frontend
+![Figma](https://img.shields.io/badge/Figma-1a0a2e?style=for-the-badge&logo=figma&logoColor=f472b6)
+![UI Design](https://img.shields.io/badge/UI%20Design-1a0a2e?style=for-the-badge&logo=figma&logoColor=c084fc)
+![UX Research](https://img.shields.io/badge/UX%20Research-0f1830?style=for-the-badge&logo=googleforms&logoColor=93c5fd)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-061e2e?style=for-the-badge&logo=css3&logoColor=38bdf8)
+
 ### 🐧 OS / Tools
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0d1b2a?style=for-the-badge&logo=kalilinux&logoColor=00d4aa)
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=e2e8f0)
 ![Git](https://img.shields.io/badge/Git-2a1200?style=for-the-badge&logo=git&logoColor=fb923c)
 ![VSCode](https://img.shields.io/badge/VSCode-061e2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSIjMzhiZGY4IiBkPSJNNzQuOSAxNC40TDUxLjkgMzcuMSAzMS41IDE5LjkgMjQgMjUuMWwxNy43IDE2LjUtMTcuNyAxNi41IDcuNCA1LjIgMjAuNS0xNy4yIDIyLjkgMjIuOCA3LjYtMy43VjE4bC03LjUtMy42ek0yNCA1OS41bDguMyA1LjIgMTEuNy0xMS41TDMyLjMgNDJ6Ii8+PC9zdmc+&logoColor=38bdf8)
-![Figma](https://img.shields.io/badge/Figma-1a0a2e?style=for-the-badge&logo=figma&logoColor=f472b6)
 
 </div>
 
