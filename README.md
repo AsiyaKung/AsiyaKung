@@ -70,7 +70,7 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsiyaKung&layout=compact&hide_border=true&bg_color=1A1C1F&title_color=00d4aa&text_color=ffffff)
 
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsiyaKung&theme=radical)
+![stats](https://github-readme-activity-graph.vercel.app/graph?username=AsiyaKung&theme=react-dark)
 
 ![streak](https://streak-stats.demolab.com?user=AsiyaKung&hide_border=true&background=1A1C1F&ring=00d4aa&fire=7c3aed&currStreakLabel=00d4aa&sideLabels=ffffff&dates=ffffff&stroke=1A1C1F&currStreakNum=ffffff&sideNums=ffffff)
 
