@@ -40,6 +40,7 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f1e38?style=for-the-badge&logo=typescript&logoColor=60a5fa)
 ![HTML](https://img.shields.io/badge/HTML-2a1200?style=for-the-badge&logo=html5&logoColor=fb923c)
 ![CSS](https://img.shields.io/badge/CSS-061e2e?style=for-the-badge&logo=css&logoColor=38bdf8)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Frameworks / Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-0a2e14?style=for-the-badge&logo=node.js&logoColor=4ade80)
@@ -53,6 +54,7 @@ Building cool stuff, learning ethical hacking, and leveling up my skills every d
 ![Figma](https://img.shields.io/badge/Figma-1a0a2e?style=for-the-badge&logo=figma&logoColor=f472b6)
 ![UI Design](https://img.shields.io/badge/UI%20Design-1a0a2e?style=for-the-badge&logo=figma&logoColor=c084fc)
 ![UX Research](https://img.shields.io/badge/UX%20Research-0f1830?style=for-the-badge&logo=googleforms&logoColor=93c5fd)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🐧 OS / Tools
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0d1b2a?style=for-the-badge&logo=kalilinux&logoColor=00d4aa)
